@@ -56,27 +56,13 @@
 			</dict>
 		</dict>
 	</dict>
-	<key>NSCalendarsUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to access your calendar</string>
-	<key>NSCameraUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to use the camera</string>
-	<key>NSContactsUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp experiences to access your contacts</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to use your location</string>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to use your location</string>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to use your location</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to access your microphone</string>
-	<key>NSMotionUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to access your device's accelerometer</string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Give MyMovies-FirstReactNativeApp periences permission to save photos</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Give MyMovies-FirstReactNativeApp periences permission to access your photos</string>
-	<key>NSRemindersUsageDescription</key>
-	<string>Allow MyMovies-FirstReactNativeApp to access your reminders</string>
+  <key>NSPhotoLibraryUsageDescription</key>
+  <string>$(PRODUCT_NAME) voudrait accéder à votre galerie photo</string>
+  <key>NSCameraUsageDescription</key>
+  <string>$(PRODUCT_NAME) voudrait utiliser votre caméra</string>
+  <key>NSPhotoLibraryAddUsageDescription</key>
+  <string>$(PRODUCT_NAME) voudrait enregistrer des photos dans votre galerie photo</string>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>$(PRODUCT_NAME) voudrait accéder à votre micro (pour les vidéos)</string>
 </dict>
 </plist>
